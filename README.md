@@ -1,16 +1,24 @@
 # chuck
 
-A new Flutter project.
+This is a flutter project created as CPMDWithFlutter course first assignment. APK available here: [link](/app-release.apk)
 
-## Getting Started
+## Short description
+### Random jokes
+This is the starting page of the application. At the bottom, a user can switch between different sections. The default section is with random jokes. This is an infinite list of jokes. A user can simply scroll it down and read jokes.
 
-This project is a starting point for a Flutter application.
+<img src="/screenshots/random_jokes.jpg" height="500"/>
 
-A few resources to get you started if this is your first Flutter project:
+### Categories
+Let's move to the next section. This section is for joke categories. A user can tap on one of the categories and read jokes of this category same as in the first section
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+|<img src="/screenshots/categories.jpg" height="500"/>|<img src="/screenshots/money_category.jpg" height="500"/>|
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Searching
+On the top right corner, there is a button for search. Clicking it a user can search for jokes related to his query. 
+
+|<img src="/screenshots/search.jpg" height="500"/>|<img src="/screenshots/search_result.jpg" height="500"/>|
+
+### About me
+This is the third section. Here is some information about the application and me.
+
+<img src="/screenshots/about.jpg" height="500"/>
